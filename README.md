@@ -7,7 +7,7 @@
 - Allows interaction.
 - Completely accurate 100% of the time.
 
-### Project 1: DuckStrands
+### Project 2: DuckStrands
 **Summary**: This program allows users to play a game similar to the New York Times game 'Strands'
 
 **Key Features**: 
