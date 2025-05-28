@@ -3,6 +3,6 @@
 **Summary**: This program allows users to play an interactive choose your own adventure story.
 
 **Key Features**: 
-- Tells a story
-- Allows interaction
-- 100% accurate 
+- Tells a story.
+- Allows interaction.
+- Completely accurate 100% of the time.
